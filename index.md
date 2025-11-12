@@ -7,8 +7,8 @@ titleTemplate: Memories of future
 
 hero:
   name: g~Nj$3J2^
-  text: The past in the Earth
-  tagline: We live.We dead.We work.We rest.May one day we will be permanent.
+  text: 往事杂记
+  tagline: 尔曹身与名俱灭 不废江河万古流
   image:
     src: /logo.svg
     alt: Vitest
