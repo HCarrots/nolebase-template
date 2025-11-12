@@ -26,7 +26,7 @@ hero:
 features:
   - title: Written at the beginning 
     details: With my enery losing and aging,I realised that I need to record my life while I still can.
-    icon:🐼
+    icon: 🐼 
 ---
 
 <HomePage />
