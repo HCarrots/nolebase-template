@@ -6,7 +6,7 @@ title: Scientia
 titleTemplate: Memories of future
 
 hero:
-  name: 3J2^g~Nj$
+  name: 3J2^g~Njfdsf$
   text: 往事杂记
   tagline: 尔曹身与名俱灭 不废江河万古流
   image:
