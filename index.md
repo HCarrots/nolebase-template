@@ -24,7 +24,7 @@ hero:
       link: https://github.com/HCarrots/
 
 features:
-  - title:  Scientia 的管理
+  - title:  Scientia 的主人
     details: 一个高能物理实验学者？一个二进制发烧友？一个半吊子哲学家？一个语言爱好者？
     icon: 🐼 
 ---
