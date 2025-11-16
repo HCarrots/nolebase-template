@@ -139,7 +139,7 @@ export default defineConfig({
     footer: {
       message: '用 <span style="color: #e25555;">&#9829;</span> 撰写',
       copyright:
-        '<a class="footer-cc-link" target="_blank" href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a> © 2025-PRESENT Scientia',
+        '<a class="footer-cc-link" target="_blank" href="https://mit-license.org/">The MIT License</a> © 2025-PRESENT Scientia',
     },
     search: {
       provider: 'local',
@@ -209,7 +209,7 @@ export default defineConfig({
     },
     nav: [
       { text: '主页', link: '/' },
-      { text: '笔记', link: '/notes/' },
+      { text: '笔记', link: '/notes' },
       { text: '最近更新', link: '/toc' },
     ],
     sidebar,
