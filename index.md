@@ -15,7 +15,7 @@ hero:
   actions:
     - theme: brand
       text: Start
-      link: /notes/index
+      link: /notes/
     - theme: alt
       text: bilibili
       link: https://space.bilibili.com/84113257?spm_id_from=333.1007.0.0 
@@ -24,7 +24,7 @@ hero:
       link: https://github.com/HCarrots/
 
 features:
-  - title:  Scientia 的主人
+  - title:  Scientia 拾荒者
     details: 一个高能物理实验学者？一个二进制发烧友？一个半吊子哲学家？一个语言爱好者？
     icon: 🐼 
 ---
