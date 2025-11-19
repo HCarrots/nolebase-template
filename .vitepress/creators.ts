@@ -23,7 +23,7 @@ export const creators: Creator[] = [
     name: 'HCarrots',
     avatar: '',
     username: 'HCarrots',
-    title: 'Scientia 站主',
+    title: 'Scientia拾荒者',
     desc: '高能物理，同步辐射，粒子探测器，杂事数据科学爱好者',
     emailAliases: ['husq@ihep.ac.cn'],
   },

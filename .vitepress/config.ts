@@ -210,7 +210,9 @@ export default defineConfig({
     nav: [
       { text: '主页', link: '/' },
       { text: '笔记', link: '/notes/' },
+      { text: '生活杂谈', link: '' },
       { text: '最近更新', link: '/toc' },
+      { text: '友情链接', link: '/friends.html' },
     ],
     sidebar,
   },
