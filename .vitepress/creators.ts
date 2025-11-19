@@ -20,9 +20,9 @@ const getAvatarUrl = (name: string) => `https://github.com/${name}.png`
 
 export const creators: Creator[] = [
   {
-    name: '九月的猫没有尾巴',
+    name: 'HCarrots',
     avatar: '',
-    username: 'nekomeowww',
+    username: 'HCarrots',
     title: 'Scientia 站主',
     desc: '高能物理，同步辐射，粒子探测器，杂事数据科学爱好者',
     emailAliases: ['husq@ihep.ac.cn'],

@@ -6,12 +6,9 @@ title: Scientia
 titleTemplate: Memories of future
 
 hero:
-  name: 3J2^g~Njfdsf$
+  name: Scientia
   text: 往事杂记
   tagline: 尔曹身与名俱灭 不废江河万古流
-  image:
-    src: /logo.svg
-    alt: Vitest
   actions:
     - theme: brand
       text: Start
