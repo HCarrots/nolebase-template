@@ -231,7 +231,7 @@ export default defineConfig({
       md.use(UnlazyImages(), {
         imgElementTag: 'NolebaseUnlazyImg',
       })
-      md.use(InlineLinkPreviewElementTransform, {
+      md.use(InlineLinkPreviewElementTransform as any, {
         tag: 'VPNolebaseInlineLinkPreview',
       })
     },
